@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Multiply("Ignacio", "8"));
+            Console.WriteLine(Multiply(2, 8));
         }
 
         static int Add(int x, int y)
